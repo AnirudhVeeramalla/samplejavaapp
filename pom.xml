@@ -4,4 +4,7 @@
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>HelloWorld</name>
+  <build>
+    <finalName>helloworld</finalName>
+  </build>
 </project>
